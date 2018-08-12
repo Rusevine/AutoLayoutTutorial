@@ -13,6 +13,7 @@
 		46D03C1E2120A16C00F09E2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46D03C1D2120A16C00F09E2B /* Assets.xcassets */; };
 		46D03C212120A16C00F09E2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46D03C1F2120A16C00F09E2B /* LaunchScreen.storyboard */; };
 		46D03C242120A16C00F09E2B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 46D03C232120A16C00F09E2B /* main.m */; };
+		46D03C2C2120B3C400F09E2B /* ButtonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46D03C2B2120B3C400F09E2B /* ButtonViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		46D03C202120A16C00F09E2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		46D03C222120A16C00F09E2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		46D03C232120A16C00F09E2B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		46D03C2A2120B3C400F09E2B /* ButtonViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ButtonViewController.h; sourceTree = "<group>"; };
+		46D03C2B2120B3C400F09E2B /* ButtonViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ButtonViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				46D03C172120A16A00F09E2B /* ViewController.h */,
 				46D03C182120A16A00F09E2B /* ViewController.m */,
 				46D03C1A2120A16A00F09E2B /* Main.storyboard */,
+				46D03C2A2120B3C400F09E2B /* ButtonViewController.h */,
+				46D03C2B2120B3C400F09E2B /* ButtonViewController.m */,
 				46D03C1D2120A16C00F09E2B /* Assets.xcassets */,
 				46D03C1F2120A16C00F09E2B /* LaunchScreen.storyboard */,
 				46D03C222120A16C00F09E2B /* Info.plist */,
@@ -141,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46D03C2C2120B3C400F09E2B /* ButtonViewController.m in Sources */,
 				46D03C192120A16A00F09E2B /* ViewController.m in Sources */,
 				46D03C242120A16C00F09E2B /* main.m in Sources */,
 				46D03C162120A16A00F09E2B /* AppDelegate.m in Sources */,
